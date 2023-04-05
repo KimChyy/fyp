@@ -1,0 +1,19 @@
+body{
+    min-height: 100vh;
+    background: linear-gradient(to top, rgba(0,0,0,0.5),rgba(0,0,0,0.5)50%), url(images/resume.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background{
+    background-color: #27AE60;
+}
